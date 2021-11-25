@@ -1,0 +1,6 @@
+Adding text using write()
+print('Adding content using append()')
+print('hi')
+print('Adding content using append()')
+print('hi')print('Adding content using append()')
+print('hi')
